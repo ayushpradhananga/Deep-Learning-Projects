@@ -1,9 +1,17 @@
-Objective
+Overview
 
-Predict house prices using regression models and classify houses as "High_Price" or "Low_Price" based on a set price threshold using classification models.
 
-Components
+This repository contains deep learning solutions developed for three distinct clients across various industries: real estate, agriculture, and weather forecasting. Each project in the repository uses Python, leveraging deep learning and machine learning techniques to address specific business challenges. Google Colab with GPU support is employed for efficient development and experimentation.
 
-Data Exploration: Analysis of the King County house sales dataset.
-Regression Models: Comparison of linear regression and neural network models for price prediction.
-Classification Models: Comparison of neural networks and gradient boosting for price categorization.
+Project Structure
+
+
+The repository is divided into three main directories, each corresponding to a specific task and client requirement:
+
+Real Estate Analytics (Task 1)
+
+
+Agricultural Pest Recognition (Task 2)
+
+
+Weather Forecasting (Task 3)
