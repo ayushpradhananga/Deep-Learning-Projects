@@ -25,7 +25,4 @@ Model Building and Evaluation: Detailed documentation on model architecture, par
 
 Experimental Results: Each project includes an experiment report summarizing the outcomes and potential business impacts.
 
-Contributing
 
-
-Contributions to this repository are welcome.
